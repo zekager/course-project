@@ -15,7 +15,7 @@ All necessary assets, including sprites, sounds, and the database, are provided 
 
 ## Contact
 - **Creator name**: Kryvoruchko Yevhen
-- **Nick**: zeka_ger
+- **Nickname**: zeka_ger
 - **Mail**: zekagrt@gmail.com
 
 
